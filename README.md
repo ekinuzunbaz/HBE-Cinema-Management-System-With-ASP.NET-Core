@@ -1,36 +1,41 @@
 HBE Cinema Management System
 
-Hi. I and my friends Halil and Burak developed Cinema Hall Management System with ASP.NET Core.
 
-This app features:
-IN CUSTOMER PANEL
-*Display All Movies
-*Display All Cinema Halls With Movies Which Are Showed At That Cinema Hall
-*Buy Ticket
-*Add Movies To Watched Movies List Of User
-*Display Profile Page That Contains User Informations and Watched Movies
-*Watch Movie's Trailer And Display Movie's Cast,Summary,Director and Other Infos
-*Make Comment To Movies
-*Display Other User's Comments
-
-IN ADMIN PANEL
-*Display All Movies
-*Add Movie
-*Add Actor To Movie
-*Edit Movie's Infos
-*Display All Sessions
-*Delete And Create Session
-*Display All Comments
-*Delete Comment
-*Display All Tickets
+Hi.
+I and my friends Burak and Ekin developed Cinema Hall Management System with ASP.NET Core.
 
 
-Youtube:https://youtu.be/GKEj9GyRnUw
+## This app features:
 
-Used technologies:
-*MSSQL Database
-*ASP.NET Core
-*C#
-*Html
-*Bootstrap
-*JavaScript
+***IN CUSTOMER PANEL***<br />
+*Display All Movies<br />
+*Display All Cinema Halls With Movies Which Are Showed At That Cinema Hall<br />
+*Buy Ticket<br />
+*Add Movies To Watched Movies List Of User<br />
+*Display Profile Page That Contains User Informations and Watched Movies<br />
+*Watch Movie's Trailer And Display Movie's Cast,Summary,Director and Other Infos<br />
+*Make Comment To Movies<br />
+*Display Other User's Comments<br />
+
+***IN ADMIN PANEL***<br />
+*Display All Movies<br />
+*Add Movie<br />
+*Add Actor To Movie<br />
+*Edit Movie's Infos<br />
+*Display All Sessions<br />
+*Delete And Create Session<br />
+*Display All Comments<br />
+*Delete Comment<br />
+*Display All Tickets<br /><br />
+
+Youtube:https://youtu.be/GKEj9GyRnUw <br />
+
+
+## Used technologies:<br />
+*MSSQL Database<br />
+*ASP.NET Core<br />
+*C#<br />
+*Html<br />
+*Bootstrap<br />
+*JavaScript<br />
+
