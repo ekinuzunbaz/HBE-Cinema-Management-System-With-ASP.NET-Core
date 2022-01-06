@@ -4,7 +4,7 @@ HBE Cinema Management System
 Hi.
 I and my friends Halil and Burak developed Cinema Hall Management System with ASP.NET Core.
 
-Thanks to my teammates for their contributions: https://github.com/Burakkonuk and https://github.com/hkpnrr
+Thanks to my teammates for their contributions: https://github.com/hkpnrr and https://github.com/Burakkonuk
 
 ## This app features:
 
