@@ -29,8 +29,11 @@ Thanks to my teammates for their contributions: https://github.com/hkpnrr and ht
 *Delete Comment<br />
 *Display All Tickets<br /><br />
 
-Youtube:https://youtu.be/GKEj9GyRnUw <br />
+***FLOW IN THE APPLICATION***<br />
+On the first screen, two different routing processes are performed according to the username and password: Users log in as members. If he/she is not a member of the system, he/she first registers. After logging in, users can view the movies in the system. Users can comment on the detail page of any movie and learn more about the movie. Users can buy tickets to the movies that are now showing by choosing the sessions. On the other hand, by logging in as an admin, you can add movies to the system, update movie information, delete inappropriate comments and perform many other administrative operations.
 
+***USAGE VIDEO***<br />
+Youtube:https://youtu.be/GKEj9GyRnUw <br />
 
 ## Used technologies:<br />
 *MSSQL Database<br />
