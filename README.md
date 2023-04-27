@@ -6,7 +6,7 @@ Me and my friends Halil and Burak developed Cinema Hall Management System with A
 
 Thanks to my teammates for their contributions: https://github.com/hkpnrr and https://github.com/Burakkonuk
 
-## This app features:
+## App Features
 
 ***IN CUSTOMER PANEL***<br />
 *Display All Movies<br />
